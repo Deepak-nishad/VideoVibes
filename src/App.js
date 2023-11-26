@@ -24,7 +24,6 @@ function App() {
       <div className="">
         <Head />
         <RouterProvider router={appRouter} />
-        <Body />
       </div>
     </Provider>
   );
