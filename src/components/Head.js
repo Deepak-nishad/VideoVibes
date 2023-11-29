@@ -53,7 +53,7 @@ const Head = () => {
         <a href="/">
           <img
             alt="youtube logo"
-            className="h-18 mx-2"
+            className="h-8 mx-2"
             src="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg"
           />
         </a>
