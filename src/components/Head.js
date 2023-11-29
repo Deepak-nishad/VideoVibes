@@ -11,6 +11,7 @@ const Head = () => {
 
   const searchCache = useSelector((store) => store.search);
   const dispatch = useDispatch();
+
   useEffect(() => {
     const timer = setTimeout(() => {
       if (searchCache[searchQuery]) {
